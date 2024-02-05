@@ -1,4 +1,4 @@
-<h1 align="left">tHello World</h1>
+<h1 align="center">Hello World</h1>
 <h3 align="center">Talented Frontend Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar-aymann" alt="omar-aymann" /></a> </p>
