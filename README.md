@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Omar</h1>
 <h3 align="center">Talented Frontend Developer</h3>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **LMS educational system**
 
 - 🌱 I’m currently learning **Nodejs, DSA**
 
