@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nodejs, DSA**
 
-- 👨‍💻 All of my projects are available at [omarayman.vercel.app](omarayman.vercel.app)
+- 👨‍💻 All of my projects are available at [omarayman.vercel.app](https://omarayman.vercel.app)
 
 - 💬 Ask me about **react**
 
