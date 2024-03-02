@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [omarayman.vercel.app](https://omarayman.vercel.app)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **omaraymannegm@outlook.com**
 
