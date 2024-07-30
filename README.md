@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Omar</h1>
 <h3 align="center">Full Stack Developer</h3>
-
+<p>my name is Omar, I started learning to code when I was 13 years old, currently I'm a CS student working as a frontend developer, I have experience working as a full stack developer too, you can say I'm obsessed with programming</p>
 - 🔭 I’m currently working on **Viva App**
 
 - 🌱 I’m currently learning **TS, Design patterns**
