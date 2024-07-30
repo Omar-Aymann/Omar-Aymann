@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Omar</h1>
-<h3 align="center">Talented Frontend Developer</h3>
+<h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on **LMS educational system**
+- 🔭 I’m currently working on **Viva App**
 
-- 🌱 I’m currently learning **Nodejs, DSA**
+- 🌱 I’m currently learning **TS, Design patterns**
 
 - 👨‍💻 All of my projects are available at [omarayman.vercel.app](https://omarayman.vercel.app)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React, Vue, PHP....**
 
 - 📫 How to reach me **omaraymannegm@outlook.com**
 
