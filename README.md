@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Omar</h1>
 <h3 align="center">Software Engineer</h3>
-<p>my name is Omar, I started learning to code when I was 13 years old, currently I'm a CS student working as a frontend developer, I have experience working as a full stack developer too, you can say I'm obsessed with programming</p>
+<p> My name is Omar. I started learning to code when I was 13 years old. I'm a CS student working as a Backend developer. I have experience working as a full-stack developer, too. You can say I'm obsessed with programming</p>
 - 🔭 I’m currently working on **Viva App**
 
 - 🌱 I’m currently learning **TS, Design patterns**
 
 - 👨‍💻 All of my projects are available at [omarayman.vercel.app](https://omarayman.vercel.app)
 
-- 💬 Ask me about **React, Vue, PHP....**
+- 💬 Ask me about **JS & TS, React, Vue, Node, Nest, Java, PHP....**
 
 - 📫 How to reach me **omaraymannegm@outlook.com**
 
